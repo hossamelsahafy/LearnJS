@@ -1,0 +1,71 @@
+***Node JS***
+
+    ** Node Fundmentals
+    ** Express.js
+    ** MongoDB, Mongoose
+    ** Application
+    ** Deployment
+
+==============================================
+
+    ** Environment To run JS Outside Browser
+    ** Built On Chrome's V8 JS Engine
+    ** Big Community
+    ** Full-Stack
+
+==============================================
+
+    Requirments:
+
+    ** HTML, CSS, JS, ES6
+    ** Callbacks, Promises, Async-Await
+    ** Youtube - Coding Addict
+    ** playlist - JS Nuggets
+
+==============================================
+
+    ** Intro
+    ** Install => sudo apt install nodejs
+    ** Node Fundamentals
+    ** Express Tutorial
+    ** Building Apps
+
+==============================================
+
+    _____________________________________________
+    |       Browser:        |       Node.js:     |
+    |_______________________|____________________|
+    |   Dom                 |   No Dom           |
+    |   Window              |   No Window        |
+    |   Interactive Apps    |   Server Side App  |
+    |   No Filesystem       |   Filesystem       |
+    |   Fragmentation       |   Versions         |
+    |   ES6 Modules         |   CommonJS         |
+    ----------------------------------------------
+
+==============================================
+
+    Built-In Modules:
+    
+        ** OS
+        ** PATH
+        ** FS
+        ** HTTP
+
+==============================================
+
+    ** npm - global Command, comes with node
+    ** npm --version
+    ** local depedency - Use It Only In This Particular Project
+    ** npm i <packageName>
+    ** Global Dependency - Use It In Any Project
+    ** npm install -g <packageName>
+    ** npm uninstall <packageName>
+    ** sudo npm install -g <packageName> (mac)
+    ** package.json - Manifest File That Stores
+        Metadata About(Projec/Package)
+    ** manual approach (Create package.json In The Root, Create Properties etc)
+    ** npm init (step by step, press enter to skip)
+    ** npm init -y (everything default)
+
+==============================================
