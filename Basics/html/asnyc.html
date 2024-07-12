@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>LEARN JAVASCRIPT</p>
+    <img src="wallpape.jpg" alt="My Image" id="myImage">
+
+    <script>
+        var img1 = document.querySelector('#myImage');
+
+        img1.addEventListener('load', function() {
+            console.log('Image has loaded');
+            // You can perform additional actions here
+        });
+
+        img1.addEventListener('error', function() {
+            console.error('Image failed to load');
+            // Handle the error (e.g., show a placeholder image)
+        });
+    </script>
+</body>
+</html>

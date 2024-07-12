@@ -69,3 +69,33 @@
     ** npm init -y (everything default)
 
 ==============================================
+
+    ** Event Loop, Async Patterns, Events Emitter And Streams
+    ** Main Concepts
+    ** Pre-Built Code
+
+==============================================
+
+    Course API's:
+    Slides
+    Table Project
+    PropTypes Example
+    JavaScript Store Single Product
+    React Store Single Product
+
+==============================================
+
+    STREAMS:
+    ** Writeable
+    ** Readable
+    ** Duplex
+    ** Transform
+
+==============================================
+
+    API VS SSR:
+    ** API - JSON   ** SSR - TEMPLATE
+    ** SEND DATA    ** SEND TEMPLATE
+    ** RES.JSON()   ** RES.RENDER()
+
+==============================================

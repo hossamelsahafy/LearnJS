@@ -3,6 +3,7 @@ const http = require('http');
 
 const server = http.createServer((req, res) => {
     if(req.url === '/') {
+        console.log("Request Event")
         res.end(`<h1>Welcome to the Home Page</h1>`);
     };
     if(req.url === '/about') {
